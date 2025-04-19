@@ -43,7 +43,7 @@ This project investigates the factors influencing participation, including aware
 ## 🧹 EXCEL ANALYSIS
 
 ### ✅ Data Cleaning
-- Removed duplicates & incomplete responses (2 individuals)
+- Removed duplicates
 - Treated missing values
 - Removed income outliers
 - Standardized values
@@ -68,28 +68,31 @@ This project investigates the factors influencing participation, including aware
 ## 📌 INSIGHTS FROM EXCEL
 
 
+![Screenshot 600](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(600).png)
+
+
 (Table 1.1)  👥 Gender Participation by State
 
 
-
+![Screenshot 601](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(601).png)
 
 
 (Figure 1.1) 📊 Gender Distribution Chart
 
 
-
+![Screenshot 602](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(602).png)
 
 
 (Table 1.2) 💍 Marital Status by State
 
 
-
+![Screenshot 603](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(603).png)
 
 
 (Table 1.3)🎁 Benefits of Insurance:
 
 
-
+![Screenshot 604](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(604).png)
 
 
 | Benefit | % |
@@ -107,7 +110,7 @@ This project investigates the factors influencing participation, including aware
 (Table 1.4) 🧠 Reasons for Participation:
 
 
-
+![Screenshot 605](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(605).png)
 
 
 | Reason | % |
@@ -134,12 +137,16 @@ This project investigates the factors influencing participation, including aware
 (Figure 2.1) 📊 Calculated Measures and New Measure Process
 
 
-
+![Screenshot 606](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(606).png)
 
 
 (Figure 2.2) 📈 Data Visualizations using Power BI 
 
 
+![Screenshot 607](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(607).png)
+
+
+![Screenshot 608](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(608).png)
 
 
 
