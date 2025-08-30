@@ -1,4 +1,4 @@
-# Analysing the partcipation level of poultry farmers in agricultural insurance in Northern Nigeria 
+# Analysing the participation level of poultry farmers in agricultural insurance in Northern Nigeria 
 
 
 ---
