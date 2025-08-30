@@ -1,4 +1,4 @@
-# 🐔 ANALYZING THE PARTICIPATION LEVEL OF POULTRY FARMERS IN AGRICULTURAL INSURANCE IN NORTHERN NIGERIA 
+# Analysing the partcipation level of poultry farmers in agricultural insurance in Northern Nigeria 
 
 
 ---
@@ -9,21 +9,21 @@ Agricultural insurance is vital for reducing risks linked to farming, including 
 
 This project investigates the factors influencing participation, including awareness, product accessibility, and socio-economic characteristics.
 
-📚 *Reference*: Smith, A. B. (2018). *Agricultural Insurance: Principles and Applications*. Academic Press.
+*Reference*: Smith, A. B. (2018). *Agricultural Insurance: Principles and Applications*. Academic Press.
 
 ---
 
-## 🎯 OBJECTIVES
+## OBJECTIVES
 
-- **🔍 Awareness & Knowledge**  
+- **Awareness & Knowledge**  
   Assess farmers’ understanding of insurance benefits and constraints.
 
-- **📊 Socio-economic Factors**  
+- **Socio-economic Factors**  
   Explore how income, education, and farm size impact insurance decisions.
 
 ---
 
-## 🧪 METHODOLOGY
+## METHODOLOGY
 
 **Tools Used**:
 - Microsoft Excel: Data Cleaning, Descriptive Analysis & Charts
@@ -40,7 +40,7 @@ This project investigates the factors influencing participation, including aware
 
 ---
 
-## 🧹 EXCEL ANALYSIS
+## EXCEL ANALYSIS
 
 ### ✅ Data Cleaning
 - Removed duplicates
@@ -65,31 +65,31 @@ This project investigates the factors influencing participation, including aware
 
 ---
 
-## 📌 INSIGHTS FROM EXCEL
+## INSIGHTS FROM EXCEL
 
 
 ![Screenshot 600](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(600).png)
 
 
-(Table 1.1)  👥 Gender Participation by State
+(Table 1.1)  Gender Participation by State
 
 
 ![Screenshot 601](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(601).png)
 
 
-(Figure 1.1) 📊 Gender Distribution Chart
+(Figure 1.1) Gender Distribution Chart
 
 
 ![Screenshot 602](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(602).png)
 
 
-(Table 1.2) 💍 Marital Status by State
+(Table 1.2) Marital Status by State
 
 
 ![Screenshot 603](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(603).png)
 
 
-(Table 1.3)🎁 Benefits of Insurance:
+(Table 1.3) Benefits of Insurance:
 
 
 ![Screenshot 604](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(604).png)
@@ -107,7 +107,7 @@ This project investigates the factors influencing participation, including aware
 - Discounted premium rate | 0.38%
 
 
-(Table 1.4) 🧠 Reasons for Participation:
+(Table 1.4) Reasons for Participation:
 
 
 ![Screenshot 605](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(605).png)
@@ -124,7 +124,7 @@ This project investigates the factors influencing participation, including aware
 
 ---
 
-## 📊 POWER BI VISULAIZATION
+## POWER BI VISULAIZATION
 
 - DAX Calculations & New Measures
 - Gender Distribution
@@ -132,15 +132,15 @@ This project investigates the factors influencing participation, including aware
 - Benefits vs. State Analysis
 - Reasons by Demographics
 
-**🖼️ Insight Visuals**:
+**Insight Visuals**:
 
-(Figure 2.1) 📊 Calculated Measures and New Measure Process
+(Figure 2.1) Calculated Measures and New Measure Process
 
 
 ![Screenshot 606](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(606).png)
 
 
-(Figure 2.2) 📈 Data Visualizations using Power BI 
+(Figure 2.2) Data Visualizations using Power BI 
 
 
 ![Screenshot 607](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(607).png)
@@ -152,7 +152,7 @@ This project investigates the factors influencing participation, including aware
 
 ---
 
-## 🔍 FINDINGS
+## FINDINGS
 
 - **Socio-economic Influences**: Income, education, and occupation matter.
 - **Male Participation Dominates**
