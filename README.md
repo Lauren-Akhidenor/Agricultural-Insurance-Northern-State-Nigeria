@@ -1,173 +1,193 @@
-# Analysing the participation level of poultry farmers in agricultural insurance in Northern Nigeria 
-
+# Analysing the Drivers of Agricultural Insurance Engagement among Poultry Farmers in Northern Nigeria
 
 ---
 
-## 📌 OVERVIEW
+## OVERVIEW
 
-Agricultural insurance is vital for reducing risks linked to farming, including crop failures, livestock diseases, and natural disasters. In Northern Nigeria, poultry farming is a key livelihood for many—but insurance participation remains low, threatening sustainability.
+Agricultural insurance plays a key role in reducing farming risks such as livestock disease outbreaks, market shocks, and climate-related losses. In Northern Nigeria, poultry farming is an important livelihood activity, yet engagement with agricultural insurance remains uneven.
 
-This project investigates the factors influencing participation, including awareness, product accessibility, and socio-economic characteristics.
-
-*Reference*: Smith, A. B. (2018). *Agricultural Insurance: Principles and Applications*. Academic Press.
+This project examines the **drivers of agricultural insurance engagement** among poultry farmers, focusing on awareness, perceived benefits, and the institutional and socio-economic factors shaping farmers’ decisions. The study does not focus on participation rates but instead explores the behavioural and structural determinants of insurance uptake.
 
 ---
 
 ## OBJECTIVES
 
-- **Awareness & Knowledge**  
-  Assess farmers’ understanding of insurance benefits and constraints.
+- **Awareness & Understanding**
+  - Assess farmers’ knowledge of agricultural insurance and perceived benefits.
 
-- **Socio-economic Factors**  
-  Explore how income, education, and farm size impact insurance decisions.
+- **Behavioural Drivers**
+  - Identify the main reasons farmers engage with agricultural insurance (e.g., risk protection, financial security, institutional requirements).
+
+- **Socio-economic Factors**
+  - Examine how income, education, farm size, and farming experience influence insurance engagement patterns.
+
+- **Institutional Influence**
+  - Explore the role of banks and credit institutions in shaping insurance adoption, particularly through loan-linked requirements.
 
 ---
 
-## METHODOLOGY
+## DATASET & METHODOLOGY
 
-**Tools Used**:
-- Microsoft Excel: Data Cleaning, Descriptive Analysis & Charts
-- Microsoft Power BI: Advanced Visualization & DAX Measures
+**Dataset**
+- 105 poultry farmers across 7 Northern Nigerian states:
+  - Abuja
+  - Benue
+  - Kogi
+  - Kwara
+  - Nasarawa
+  - Niger
+  - Plateau
 
-**Dataset**: 105 poultry farmers across 7 states:  
-- Abuja
-- Benue
-- Kogi
-- Kwara
-- Nasarawa
-- Niger
-- Plateau
+**Tools Used**
+- Microsoft Excel: Data cleaning, descriptive statistics, and visualization
+- Microsoft Power BI: Advanced dashboards and DAX measures
 
 ---
 
 ## EXCEL ANALYSIS
 
-### ✅ Data Cleaning
+### Data Cleaning
 - Removed duplicates
-- Treated missing values
-- Removed income outliers
-- Standardized values
+- Handled missing values
+- Standardized categorical variables
+- Treated income outliers for consistency
 
-### 📈 Descriptive Statistics
-- Mean Age: `39.41`
-- Mean Household Size: `3.89`
-- Years of Poultry Production:
-  - Min: 1 year (Benue, Kogi)
-  - Max: 30 years (Nasarawa)
+---
+
+### 📊 Descriptive Statistics
+
+- Mean Age: **39.41 years**
+- Mean Household Size: **3.89**
+- Years in Poultry Farming:
+  - Minimum: 1 year
+  - Maximum: 30 years
 - Income Range:
-  - Min: ₦500,000  
-  - Max: ₦20,000,000
-
-### 📊 Key Visuals
-- Gender participation per state
-- Marital status distribution
-- Benefits & reasons for insurance participation
+  - ₦500,000 – ₦20,000,000
 
 ---
 
-## INSIGHTS FROM EXCEL
+## KEY FINDINGS (EXCEL OUTPUT)
 
+### 📊 Gender Participation by State
 
-![Screenshot 600](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(600).png)
-
-
-(Table 1.1)  Gender Participation by State
-
-
-![Screenshot 601](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(601).png)
-
-
-(Figure 1.1) Gender Distribution Chart
-
-
-![Screenshot 602](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(602).png)
-
-
-(Table 1.2) Marital Status by State
-
-
-![Screenshot 603](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(603).png)
-
-
-(Table 1.3) Benefits of Insurance:
-
-
-![Screenshot 604](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(604).png)
-
-
-| Benefit | % |
-
-- Rest of mind | 37.70%
-- Increase in farm size | 21.80%
-- Access to credit facilities | 18.84%
-- Provision of advice | 12.70%
-- Increase in other investments | 5.00%
-- Improved Social Stability | 4.62%
-- Increase in output | 3.46%
-- Discounted premium rate | 0.38%
-
-
-(Table 1.4) Reasons for Participation:
-
-
-![Screenshot 605](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(605).png)
-
-
-| Reason | % |
-- Mandated by Bank of Industry after taking loans | 31.86%
-- Encountered losses from specific contingencies | 21.20%
-- Personally taken to protect against financial losses | 29.12%
-- Insurance Marketing | 11.54%
-- Advertisement | 3.65%
-- Others | 1.65%
-
+![Gender Participation](https://raw.githubusercontent.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/main/Screenshot%20(600).png)
 
 ---
 
-## POWER BI VISULAIZATION
+### 📊 Gender Distribution
 
-- DAX Calculations & New Measures
-- Gender Distribution
-- Socioeconomic Trends
-- Benefits vs. State Analysis
-- Reasons by Demographics
-
-**Insight Visuals**:
-
-(Figure 2.1) Calculated Measures and New Measure Process
-
-
-![Screenshot 606](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(606).png)
-
-
-(Figure 2.2) Data Visualizations using Power BI 
-
-
-![Screenshot 607](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(607).png)
-
-
-![Screenshot 608](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/Screenshot%20(608).png)
-
-
+![Gender Distribution](https://raw.githubusercontent.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/main/Screenshot%20(601).png)
 
 ---
 
-## FINDINGS
+### 📊 Marital Status by State
 
-- **Socio-economic Influences**: Income, education, and occupation matter.
-- **Male Participation Dominates**
-- **Top Motivation**: Mandated by financial institutions
-- **Top Benefit**: Psychological peace of mind
+![Marital Status](https://raw.githubusercontent.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/main/Screenshot%20(602).png)
 
 ---
 
-## ✅ CONCLUSION
+### 📊 Benefits of Agricultural Insurance
 
-Poultry farmers in Northern Nigeria participate in insurance mostly due to external requirements or personal experiences with loss. To boost engagement, stakeholders must improve communication, accessibility, and perceived value.
+![Benefits Chart](https://raw.githubusercontent.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/main/Screenshot%20(604).png)
 
-📌 *Strategic improvement areas*:  
-- Awareness campaigns  
-- Tailored insurance products  
-- Efficient claim processes
+| Benefit | Percentage |
+|----------|------------|
+| Rest of mind | 37.70% |
+| Increase in farm size | 21.80% |
+| Access to credit facilities | 18.84% |
+| Provision of advice | 12.70% |
+| Increase in other investments | 5.00% |
+| Improved social stability | 4.62% |
+| Increase in output | 3.46% |
+| Discounted premium rate | 0.38% |
 
 ---
+
+### 📊 Reasons for Insurance Engagement
+
+![Reasons Chart](https://raw.githubusercontent.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/main/Screenshot%20(605).png)
+
+| Reason | Percentage |
+|--------|------------|
+| Bank-mandated insurance (loan condition) | 31.86% |
+| Personal risk protection | 29.12% |
+| Experienced previous losses | 21.20% |
+| Insurance marketing influence | 11.54% |
+| Advertisement | 3.65% |
+| Others | 1.65% |
+
+---
+
+## CRITICAL ANALYTICAL INSIGHT
+
+A key structural feature of the dataset is the distinction between:
+
+### 1. Mandated Participants
+Farmers enrolled due to financial institution requirements (e.g., loan-linked insurance).
+
+### 2. Voluntary Participants
+Farmers who independently chose insurance for risk protection.
+
+These two groups represent fundamentally different behavioural pathways and should be analysed separately in future work.
+
+Recommended comparison variables:
+- Income levels
+- Education status
+- Farm size
+- Perceived benefits
+
+---
+
+## POWER BI DASHBOARD
+
+### Data Transformation & Measures
+
+![Power BI Measures](https://raw.githubusercontent.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/main/Screenshot%20(606).png)
+
+---
+
+### Interactive Dashboard Insights
+
+![Power BI Visual 1](https://raw.githubusercontent.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/main/Screenshot%20(607).png)
+
+![Power BI Visual 2](https://raw.githubusercontent.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/main/Screenshot%20(608).png)
+
+---
+
+## INTERPRETATION OF RESULTS
+
+- Socio-economic factors such as income, education, and farm size significantly influence engagement decisions.
+- Male farmers dominate participation, reflecting gender disparities in agricultural financial inclusion.
+- Institutional requirements (especially bank loans) are a major driver of insurance engagement.
+- Psychological benefit (“peace of mind”) is the strongest perceived value of insurance.
+
+---
+
+## METHODOLOGICAL LIMITATION & RECOMMENDATION
+
+### Limitation
+The study does not include inferential modelling of engagement probability.
+
+### Recommended Extension: Logistic Regression
+A logistic regression model could be used to quantify engagement drivers.
+
+- **Dependent variable:**
+  - Insurance engagement (Yes/No)
+
+- **Independent variables:**
+  - Income
+  - Education
+  - Farm size
+  - Farming experience
+
+This would provide stronger causal interpretation of engagement behaviour.
+
+---
+
+## CONCLUSION
+
+Engagement with agricultural insurance among poultry farmers in Northern Nigeria is shaped by institutional pressure, risk experience, and socio-economic conditions.
+
+While financial institutions play a dominant role in driving uptake, voluntary adoption is influenced by perceived risk protection and psychological security.
+
+Improving awareness, tailoring insurance products, and strengthening accessibility will enhance sustainable adoption.
